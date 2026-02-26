@@ -1,3 +1,1 @@
-function mensagem() {
-    alert("Obrigado por entrar em contato! Em breve retornaremos 🐾");
-}
+console.log("Site PetCare carregado com sucesso!");
